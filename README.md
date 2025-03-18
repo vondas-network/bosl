@@ -2,7 +2,7 @@
   <img height="15%" width="15%" src="https://cdn.freebiesupply.com/logos/large/2x/bitcoin-logo-png-transparent.png"/>
 </h3>
 
-# Bitcoin Knowledge
+# bosl
 
 A collection of Javascript libraries on the Bitcoin network & misc information.
 
