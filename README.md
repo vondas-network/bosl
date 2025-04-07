@@ -87,6 +87,8 @@ A collection of Javascript libraries on the Bitcoin network & misc information.
 ## General Knowledge
 | Description | URL                                |
 | ---------- | ----------------------------------- |
+| awesome-bitcoin   | [Link]([https://twitter.com/ord_io/status/1669815559276355584?s=46&t=eNbFyBVfqjczB5dqZ-BNyQ](https://github.com/igorbarinov/awesome-bitcoin))         | 
+| awesome-ordinals   | [Link]([https://github.com/neu-fi/awesome-ordinals))         | 
 | Sat exploring   | [Link](https://twitter.com/ord_io/status/1669815559276355584?s=46&t=eNbFyBVfqjczB5dqZ-BNyQ)         | 
 | Types of BTC public keys   | [Link](https://thebitcoinmanual.com/articles/types-btc-public-keys/)         | 
 | bips (Bitcoin Improvement Proposals)  | [Link](https://github.com/bitcoin/bips)         | 
