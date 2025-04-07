@@ -2,6 +2,8 @@
   <img height="15%" width="15%" src="https://cdn.freebiesupply.com/logos/large/2x/bitcoin-logo-png-transparent.png"/>
 </h3>
 
+<p align="center"><em>A collection of on-chain software libraries hosted as Bitcoin Ordinals.</em></p>
+
 # bosl
 
 A collection of Javascript libraries on the Bitcoin network & misc information.
