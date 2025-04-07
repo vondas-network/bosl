@@ -4,11 +4,7 @@
 
 <p align="center"><em>A collection of on-chain software libraries hosted as Bitcoin Ordinals.</em></p>
 
-# bosl
-
-A collection of Javascript libraries on the Bitcoin network & misc information.
-
-## Software libraries as Ordinals
+# Javascript
 | Filename |                                 Description |  
 | ---------- | ----------------------------------- | 
 | [ace editor 1.35.4](https://ordinals.com/content/ace98f59871f43dc73db7a65849811fce5bd9aeecca5ee6fad0f99a7793271aci0) | JavaScript library that provides a high-performance, embeddable code editor for the web, matching the features and usability of native editors like Sublime, Vim, and TextMate, with support for syntax highlighting, themes, and easy integration into web applications. |
